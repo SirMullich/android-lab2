@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="TopMargin">30dp</dimen>
+    <dimen name="landscapeMargin">8dp</dimen>
+</resources>
